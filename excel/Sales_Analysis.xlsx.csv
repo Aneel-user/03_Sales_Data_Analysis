@@ -1,0 +1,101 @@
+Order_ID,Order_Date,Customer_Name,Product,Category,Quantity,Unit_Price,Region,Salesperson,Payment_Method,Sales_Amount
+ORD1001,07-03-2026,Sneha,Mobile,Electronics,2,25000,East,Suresh,Debit Card,50000
+ORD1002,08-03-2026,Sneha,Keyboard,Electronics,2,1500,North,Ravi,Debit Card,3000
+ORD1003,09-03-2026,Arjun,Desk,Furniture,2,12000,East,Suresh,Credit Card,24000
+ORD1004,10-03-2026,Neha,Mobile,Electronics,4,25000,East,Kavya,Cash,100000
+ORD1005,11-03-2026,Sneha,Keyboard,Electronics,3,1500,East,Meena,Debit Card,4500
+ORD1006,12-03-2026,Arjun,Laptop,Electronics,5,55000,West,Ravi,UPI,275000
+ORD1007,13-03-2026,Arjun,Mobile,Electronics,5,25000,East,Ravi,Cash,125000
+ORD1008,14-03-2026,Kiran,Desk,Furniture,1,12000,West,Anil,Debit Card,12000
+ORD1009,15-03-2026,Anjali,Mobile,Electronics,4,25000,West,Anil,Cash,100000
+ORD1010,16-03-2026,Arjun,Keyboard,Electronics,2,1500,West,Suresh,Credit Card,3000
+ORD1011,17-03-2026,Arjun,Office Chair,Furniture,5,8000,North,Ravi,Cash,40000
+ORD1012,18-03-2026,Neha,Headphones,Electronics,2,3000,South,Ravi,Debit Card,6000
+ORD1013,19-03-2026,Amith,Desk,Furniture,5,12000,North,Anil,Cash,60000
+ORD1014,20-03-2026,Neha,Keyboard,Electronics,5,1500,North,Anil,UPI,7500
+ORD1015,21-03-2026,Anjali,Desk,Furniture,3,12000,West,Ravi,Debit Card,36000
+ORD1016,22-03-2026,Kiran,Desk,Furniture,5,12000,West,Anil,Cash,60000
+ORD1017,23-03-2026,Anjali,Headphones,Electronics,1,3000,North,Meena,Credit Card,3000
+ORD1018,24-03-2026,Arjun,Laptop,Electronics,5,55000,North,Ravi,Cash,275000
+ORD1019,25-03-2026,Pooja,Headphones,Electronics,5,3000,West,Anil,UPI,15000
+ORD1020,26-03-2026,Sneha,Headphones,Electronics,1,3000,East,Kavya,UPI,3000
+ORD1021,27-03-2026,Rahul,Laptop,Electronics,3,55000,South,Anil,Debit Card,165000
+ORD1022,10-03-2026,Priya,Desk,Furniture,3,12000,South,Kavya,Credit Card,36000
+ORD1023,13-02-2026,Arjun,Headphones,Electronics,4,3000,West,Meena,Cash,12000
+ORD1024,28-01-2026,Pooja,Mobile,Electronics,4,25000,South,Kavya,Cash,100000
+ORD1025,29-01-2026,Sneha,Desk,Furniture,4,12000,West,Meena,Debit Card,48000
+ORD1026,12-03-2026,Vikram,Desk,Furniture,2,12000,South,Suresh,Credit Card,24000
+ORD1027,01-01-2026,Neha,Keyboard,Electronics,3,1500,East,Suresh,UPI,4500
+ORD1028,21-02-2026,Rahul,Mobile,Electronics,4,25000,West,Anil,Debit Card,100000
+ORD1029,02-01-2026,Anjali,Laptop,Electronics,3,55000,East,Ravi,Debit Card,165000
+ORD1030,08-03-2026,Rahul,Laptop,Electronics,3,55000,West,Ravi,Debit Card,165000
+ORD1031,23-03-2026,Rahul,Office Chair,Furniture,4,8000,South,Anil,Credit Card,32000
+ORD1032,20-01-2026,Rahul,Headphones,Electronics,3,3000,South,Ravi,Cash,9000
+ORD1033,26-01-2026,Amith,Mobile,Electronics,5,25000,West,Anil,Cash,125000
+ORD1034,20-01-2026,Pooja,Desk,Furniture,2,12000,West,Kavya,Cash,24000
+ORD1035,16-03-2026,Sneha,Laptop,Electronics,1,55000,East,Kavya,Debit Card,55000
+ORD1036,02-01-2026,Vikram,Keyboard,Electronics,2,1500,East,Anil,Cash,3000
+ORD1037,09-01-2026,Amith,Mobile,Electronics,5,25000,South,Suresh,Credit Card,125000
+ORD1038,20-03-2026,Anjali,Desk,Furniture,3,12000,East,Meena,Credit Card,36000
+ORD1039,17-03-2026,Pooja,Mobile,Electronics,4,25000,East,Kavya,Debit Card,100000
+ORD1040,21-03-2026,Vikram,Office Chair,Furniture,1,8000,East,Kavya,UPI,8000
+ORD1041,15-02-2026,Sneha,Laptop,Electronics,5,55000,West,Meena,UPI,275000
+ORD1042,23-02-2026,Sneha,Headphones,Electronics,4,3000,West,Ravi,Credit Card,12000
+ORD1043,14-02-2026,Amith,Desk,Furniture,5,12000,East,Kavya,Debit Card,60000
+ORD1044,10-01-2026,Kiran,Desk,Furniture,2,12000,West,Kavya,Debit Card,24000
+ORD1045,06-01-2026,Anjali,Desk,Furniture,1,12000,East,Meena,UPI,12000
+ORD1046,31-03-2026,Arjun,Mobile,Electronics,5,25000,West,Ravi,Debit Card,125000
+ORD1047,13-02-2026,Priya,Headphones,Electronics,2,3000,East,Ravi,Credit Card,6000
+ORD1048,30-01-2026,Sneha,Mobile,Electronics,1,25000,West,Meena,Cash,25000
+ORD1049,29-01-2026,Pooja,Office Chair,Furniture,3,8000,West,Ravi,Debit Card,24000
+ORD1050,10-01-2026,Priya,Keyboard,Electronics,4,1500,East,Ravi,UPI,6000
+ORD1051,16-02-2026,Kiran,Headphones,Electronics,1,3000,North,Ravi,Cash,3000
+ORD1052,22-02-2026,Kiran,Laptop,Electronics,5,55000,West,Ravi,Debit Card,275000
+ORD1053,12-01-2026,Arjun,Keyboard,Electronics,4,1500,South,Kavya,Cash,6000
+ORD1054,05-03-2026,Sneha,Office Chair,Furniture,5,8000,North,Kavya,UPI,40000
+ORD1055,01-01-2026,Anjali,Mobile,Electronics,4,25000,South,Ravi,UPI,100000
+ORD1056,09-02-2026,Arjun,Mobile,Electronics,5,25000,East,Anil,Cash,125000
+ORD1057,01-03-2026,Vikram,Headphones,Electronics,2,3000,West,Kavya,Debit Card,6000
+ORD1058,08-02-2026,Rahul,Mobile,Electronics,3,25000,West,Meena,Debit Card,75000
+ORD1059,31-03-2026,Neha,Keyboard,Electronics,4,1500,South,Suresh,Credit Card,6000
+ORD1060,17-02-2026,Rahul,Mobile,Electronics,5,25000,South,Anil,Cash,125000
+ORD1061,13-03-2026,Amith,Laptop,Electronics,4,55000,East,Anil,Credit Card,220000
+ORD1062,05-03-2026,Rahul,Mobile,Electronics,1,25000,South,Suresh,UPI,25000
+ORD1063,28-03-2026,Anjali,Laptop,Electronics,5,55000,North,Suresh,Debit Card,275000
+ORD1064,21-03-2026,Sneha,Keyboard,Electronics,4,1500,West,Meena,UPI,6000
+ORD1065,04-03-2026,Arjun,Mobile,Electronics,5,25000,South,Anil,Cash,125000
+ORD1066,06-01-2026,Neha,Office Chair,Furniture,1,8000,East,Ravi,Cash,8000
+ORD1067,06-03-2026,Vikram,Headphones,Electronics,3,3000,West,Ravi,Cash,9000
+ORD1068,05-02-2026,Kiran,Keyboard,Electronics,1,1500,South,Ravi,Cash,1500
+ORD1069,09-03-2026,Arjun,Headphones,Electronics,3,3000,West,Kavya,Credit Card,9000
+ORD1070,05-03-2026,Kiran,Desk,Furniture,2,12000,West,Anil,Cash,24000
+ORD1071,26-03-2026,Anjali,Keyboard,Electronics,2,1500,North,Anil,Debit Card,3000
+ORD1072,10-03-2026,Amith,Keyboard,Electronics,1,1500,East,Kavya,Cash,1500
+ORD1073,12-03-2026,Rahul,Mobile,Electronics,3,25000,North,Suresh,Credit Card,75000
+ORD1074,26-01-2026,Vikram,Headphones,Electronics,2,3000,West,Ravi,Debit Card,6000
+ORD1075,20-02-2026,Anjali,Office Chair,Furniture,2,8000,South,Suresh,UPI,16000
+ORD1076,01-03-2026,Kiran,Desk,Furniture,1,12000,North,Meena,Cash,12000
+ORD1077,19-03-2026,Pooja,Desk,Furniture,3,12000,South,Meena,Cash,36000
+ORD1078,05-02-2026,Vikram,Office Chair,Furniture,3,8000,North,Suresh,Cash,24000
+ORD1079,01-01-2026,Anjali,Office Chair,Furniture,5,8000,South,Suresh,UPI,40000
+ORD1080,09-01-2026,Sneha,Keyboard,Electronics,3,1500,East,Ravi,Cash,4500
+ORD1081,25-03-2026,Sneha,Office Chair,Furniture,5,8000,North,Anil,UPI,40000
+ORD1082,16-01-2026,Priya,Desk,Furniture,3,12000,East,Ravi,Credit Card,36000
+ORD1083,16-03-2026,Priya,Desk,Furniture,5,12000,East,Kavya,UPI,60000
+ORD1084,28-01-2026,Arjun,Mobile,Electronics,3,25000,West,Suresh,UPI,75000
+ORD1085,27-02-2026,Pooja,Laptop,Electronics,2,55000,West,Suresh,Credit Card,110000
+ORD1086,22-03-2026,Anjali,Desk,Furniture,2,12000,North,Anil,Debit Card,24000
+ORD1087,11-03-2026,Amith,Headphones,Electronics,2,3000,North,Suresh,Cash,6000
+ORD1088,28-02-2026,Rahul,Mobile,Electronics,1,25000,West,Anil,Cash,25000
+ORD1089,12-01-2026,Priya,Laptop,Electronics,4,55000,East,Ravi,Cash,220000
+ORD1090,25-02-2026,Amith,Headphones,Electronics,5,3000,West,Suresh,UPI,15000
+ORD1091,22-02-2026,Arjun,Office Chair,Furniture,5,8000,West,Meena,Debit Card,40000
+ORD1092,17-01-2026,Rahul,Keyboard,Electronics,3,1500,North,Kavya,Debit Card,4500
+ORD1093,09-01-2026,Priya,Office Chair,Furniture,3,8000,East,Suresh,Credit Card,24000
+ORD1094,16-01-2026,Vikram,Desk,Furniture,3,12000,East,Suresh,Cash,36000
+ORD1095,02-03-2026,Kiran,Desk,Furniture,4,12000,East,Ravi,Cash,48000
+ORD1096,21-03-2026,Sneha,Desk,Furniture,3,12000,North,Anil,Debit Card,36000
+ORD1097,15-02-2026,Neha,Mobile,Electronics,1,25000,East,Anil,Cash,25000
+ORD1098,29-01-2026,Vikram,Laptop,Electronics,5,55000,North,Suresh,Credit Card,275000
+ORD1099,26-03-2026,Arjun,Mobile,Electronics,1,25000,North,Suresh,Debit Card,25000
+ORD1100,26-02-2026,Anjali,Desk,Furniture,5,12000,West,Suresh,Cash,60000
